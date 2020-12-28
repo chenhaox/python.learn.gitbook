@@ -21,5 +21,12 @@ Using type to make a function:
 > | &gt; | `__gt__` |
 > | &gt;= | `__ge__` |
 
+## Python inner-built functions
 
+
+
+> | Functionality | Name |
+> | :--- | :--- |
+> | Output the message when is called out in the console | `__repr__` |
+> | Output the message when Printing | `__str__` |
 
